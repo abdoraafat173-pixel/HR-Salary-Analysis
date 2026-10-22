@@ -7,10 +7,8 @@
 ---
 
 ## 🖼️ Project Preview & Workflow
-
 ### 1️⃣ غلاف المشروع الاحترافي (The Vision)
 ![Project Cover](Gemini_Generated_Image_cmxpwdcmxpwdcmxp.jpg)
-
 ---
 
 ### 2️⃣ لوحة التحكم الرئيسية (Main Dashboard)
