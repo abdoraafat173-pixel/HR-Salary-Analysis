@@ -7,8 +7,10 @@
 ---
 
 ## 🖼️ Project Preview & Workflow
+
 ### 1️⃣ غلاف المشروع الاحترافي (The Vision)
-![Project Cover](Gemini_Generated_Image_cmxpwdcmxpwdcmxp.jpg)
+![Project Cover](Screan.jpg)
+
 ---
 
 ### 2️⃣ لوحة التحكم الرئيسية (Main Dashboard)
@@ -16,13 +18,13 @@
 
 ---
 
-### 3️⃣ تفاصيل وتحليلات الداشبورد (Dashboard Details & KPIs)
-![Dashboard Details](Screenshot%202026-10-22%20061814.png)
+### 3️⃣ التقرير النهائي والتوصيات (Final Report & Recommendations)
+![Final Report](Screenshot%202026-10-22%20061814.png)
 
 ---
 
 ### 4️⃣ الجداول والتحليلات الإضافية (Analysis & Tables)
-![Analysis Tables](Screenshot%202026-10-21%20195413.jpg)
+![Analysis Tables](Screenshot%202026-10-21%20194100.png)
 
 ---
 
