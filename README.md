@@ -7,8 +7,9 @@
 ---
 
 ## 🖼️ Project Preview & Workflow
+
 ### 1️⃣ غلاف المشروع الاحترافي (The Vision)
-<img src="Screan.jpg" alt="Project Cover" width="100%">
+![Project Cover](Screan.jpg)
 
 ---
 
@@ -23,7 +24,7 @@
 ---
 
 ### 4️⃣ الجداول والتحليلات الإضافية (Analysis & Tables)
-![Analysis Tables](Screenshot%202026-10-21%20194100.png)
+![Analysis Tables](Screenshot%202026-10-22%20055413.png)
 
 ---
 
