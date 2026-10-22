@@ -10,9 +10,6 @@
 ### 1️⃣ غلاف المشروع الاحترافي (The Vision)
 <img src="Screan.jpg" alt="Project Cover" width="100%">
 
-### 1️⃣ غلاف المشروع الاحترافي (The Vision)
-![Project Cover](Screan.jpg)
-
 ---
 
 ### 2️⃣ لوحة التحكم الرئيسية (Main Dashboard)
