@@ -1,5 +1,3 @@
-# HR-Salary-Analysis
-A professional HR and Salary Data Analysis project built using Excel, Power Pivot, and Tabular Model.
 # 📊 HR & Salary Data Analysis Project 💼🔥
 
 > **"Transforming Data into Actionable Insights"** 💡
@@ -16,7 +14,7 @@ A professional HR and Salary Data Analysis project built using Excel, Power Pivo
 
 ---
 
-### 2️⃣ مراحل معالجة البيانات (ETL & Power Query)
+### 2️⃣ مراحل معالجة البيانات وتجهيزها (ETL & Power Query)
 تنظيف وتجهيز البيانات باحترافية عالية، مع إضافة الأعمدة المخصصة (`Outlier`) واكتشاف رؤى دقيقة من قلب الجداول الخام. ⚙️🧹
 ![Power Query ETL](Screenshot%202026-10-21%20192119.png)
 
